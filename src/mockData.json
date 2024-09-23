@@ -1,0 +1,22 @@
+[
+	{ "id": 1, "amount": -100, "success": true, "description": "Payment to Netflix", "date": "2023-09-01T10:00:00Z" },
+	{ "id": 2, "amount": -200, "success": true, "description": "Payment to Spotify", "date": "2023-09-02T11:00:00Z" },
+	{ "id": 3, "amount": -50, "success": true, "description": "Coffee at Starbucks", "date": "2023-09-03T12:00:00Z" },
+	{ "id": 4, "amount": -300, "success": false, "description": "Failed transfer to Amazon", "date": "2023-09-04T13:00:00Z" },
+	{ "id": 5, "amount": 500, "success": true, "description": "Salary from Company XYZ", "date": "2023-09-05T14:00:00Z" },
+	{ "id": 6, "amount": -150, "success": true, "description": "Payment to Apple Store", "date": "2023-09-06T15:00:00Z" },
+	{ "id": 7, "amount": -250, "success": true, "description": "Uber ride", "date": "2023-09-07T16:00:00Z" },
+	{ "id": 8, "amount": -100, "success": false, "description": "Failed transfer to YouTube", "date": "2023-09-08T17:00:00Z" },
+	{ "id": 9, "amount": 1000, "success": true, "description": "Bonus from Employer", "date": "2023-09-09T18:00:00Z" },
+	{ "id": 10, "amount": -500, "success": true, "description": "Rent payment", "date": "2023-09-10T19:00:00Z" },
+	{ "id": 11, "amount": -75, "success": true, "description": "Dinner at Restaurant ABC", "date": "2023-09-11T20:00:00Z" },
+	{ "id": 12, "amount": 150, "success": true, "description": "Refund from Amazon", "date": "2023-09-12T21:00:00Z" },
+	{ "id": 13, "amount": -400, "success": false, "description": "Failed payment to PayPal", "date": "2023-09-13T22:00:00Z" },
+	{ "id": 14, "amount": -350, "success": true, "description": "Purchase at Best Buy", "date": "2023-09-14T23:00:00Z" },
+	{ "id": 15, "amount": 250, "success": true, "description": "Freelance Payment", "date": "2023-09-15T08:00:00Z" },
+	{ "id": 16, "amount": -100, "success": true, "description": "Gym membership", "date": "2023-09-16T09:00:00Z" },
+	{ "id": 17, "amount": -50, "success": true, "description": "Taxi fare", "date": "2023-09-17T10:00:00Z" },
+	{ "id": 18, "amount": -200, "success": false, "description": "Failed subscription to Spotify", "date": "2023-09-18T11:00:00Z" },
+	{ "id": 19, "amount": 700, "success": true, "description": "Investment payout", "date": "2023-09-19T12:00:00Z" },
+	{ "id": 20, "amount": -150, "success": true, "description": "Groceries at Walmart", "date": "2023-09-20T13:00:00Z" }
+]

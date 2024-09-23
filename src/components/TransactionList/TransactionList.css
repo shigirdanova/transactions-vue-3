@@ -1,0 +1,46 @@
+
+.container {
+  text-align: center;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.transactionItem {
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.successful {
+  background-color: #ccffcc;
+}
+
+.unsuccessful {
+  opacity: 0.5;
+}
+
+.expense {
+  background-color: #ffcccc;
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.balance {
+  margin-top: 20px;
+  font-size: 18px;
+}
